@@ -1,0 +1,6 @@
+rootProject.name = 'RESTProject'
+include 'Client'
+include 'Model'
+include 'Persistance'
+include 'RESTServices'
+
